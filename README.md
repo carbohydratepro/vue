@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 参考サイト
+### Railsその他諸々の環境構築
+https://prograshi.com/framework/rails/docker-rails6-vue-vuetify/
 
-Things you may want to cover:
+### vue.jsのインストール
+https://universato.hatenablog.com/entry/2021/07/16/025001
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# バージョンはいつか記載するよきっと
