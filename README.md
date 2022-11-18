@@ -39,5 +39,5 @@ https://prograshi.com/framework/rails/docker-rails6-vue-vuetify/
 https://universato.hatenablog.com/entry/2021/07/16/025001
 
 # 3. 備考
-Rails7系だとWebpackerが使えず、vue.jsの導入が私の技量では厳しかったため、Rails6系で環境を構築している。
+Rails7系だとWebpackerが使えず、vue.jsの導入が技量的に厳しかったため、Rails6系で環境を構築している。
 
